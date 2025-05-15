@@ -56,7 +56,7 @@ This project implements a fully automated, minimul code customer support system 
 <img width="483" alt="image" src="https://github.com/user-attachments/assets/f088d711-6f5a-40b8-945d-1d9d82a7d1f3" />
 
 ## Sample of Issue Database in Google Sheet 
-<img width="1048" alt="image" src="https://github.com/user-attachments/assets/77289328-e836-4622-adee-5d1700e8c720" 
+<img width="1048" alt="image" src="https://github.com/user-attachments/assets/77289328-e836-4622-adee-5d1700e8c720"/> 
   
 ## Sample of Daily Report 
 <img width="719" alt="image" src="https://github.com/user-attachments/assets/a70d95af-6f09-43ed-ac7d-47e70576314d" />
