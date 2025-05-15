@@ -3,6 +3,8 @@
 This project implements a fully automated, minimul code customer support system using n8n, integrated with a chatbot agent powered by a vector store and multiple backend automations to streamline issue tracking and resolution workflows.
 
 ---
+## Project Overview 
+This project is an automated customer support system built using n8n. It gives users two ways to get help: they can either chat with an AI chatbot that answers questions using company documents, or they can report an issue by filling out a Google Form. When someone submits a form, a ticket is created with a unique ID and saved in a Google Sheet. The customer gets an automatic confirmation email, and the issue is sent to the right department, updating the status to "Assigned". Once the problem is solved and the status is changed to "Resolved", the customer receives a closing message. If the issue stays assigned for more than 24 hours without being resolved, both the responsible team and the customer get a reminder. At the start of every day, the team leader gets a summary of all current issues to stay updated on what needs attention.
 
 ## 🧩 Key Features
 
