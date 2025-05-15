@@ -68,7 +68,7 @@ This project implements a fully automated, minimul code customer support system 
 
 
 ## How to use 
-You can download the file and can directly use this by importing this while creating a workflow in n8n platform. 
+You can download the n8n json file and can directly use this by importing this while creating a workflow in n8n platform. 
 
 ## Video Demo
 
