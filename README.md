@@ -24,7 +24,12 @@ This project implements a fully automated, minimul code customer support system 
 - **Gmail (SMTP)** – Email notifications
 - **Vector Store / RAG Tool** – Document-based chatbot responses
 - **Cron Scheduler** – Time-based triggers for escalation and reporting
-- **Groq** – Time-based triggers for escalation and reporting
+- **Groq** – The Brain of the AI Agent
+- **Pinecon** –  vector database
+- **Google Cloud API** –  To access external data from Google Drive
+- **HuggingFace** - For Word Embedding with dimension 1024 
+
+  
 
 ---
 
