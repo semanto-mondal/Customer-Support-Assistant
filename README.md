@@ -44,10 +44,13 @@ This project is an automated customer support system built using n8n. It gives u
 
 ## Workflow of Issue Submission form, Acknowledgement Email, Google Sheets Integration*, Auto-routing to Departments and Status Assignment
 
-<img width="796" alt="image" src="https://github.com/user-attachments/assets/ad25c1d2-bc8f-4ec6-862a-7e4f63f04692" />
+<img width="1012" alt="image" src="https://github.com/user-attachments/assets/7455a684-cd28-4816-8b37-75bbda247a54" />
+
 
 ## Workflow of Escalation Rules, Daily Digest for Leads
-<img width="689" alt="image" src="https://github.com/user-attachments/assets/8b4718f7-ede0-47aa-a62f-082854a099e6" />
+
+<img width="867" alt="image" src="https://github.com/user-attachments/assets/87c5411d-f910-4abd-825a-5780b7447a1d" />
+
 
 
 ## Sample Output
